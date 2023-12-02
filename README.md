@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skider96
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c# and javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c# ,javascript and typescript.
+- 💞️ I’m looking to collaborate on angular projects
 - 📫 How to reach me ...
 
 <!---
