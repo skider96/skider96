@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skider96
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c# ,javascript and typescript.
+- 🌱 I’m currently learning c# ,javascript, typescript and angular.
 - 💞️ I’m looking to collaborate on angular projects
 - 📫 How to reach me ...
 
